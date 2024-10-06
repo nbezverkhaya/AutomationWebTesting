@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated_website_testing
 
 # Automated Website Testing Project
@@ -79,3 +80,6 @@ Feel free to fork this repository and make your own contributions. When submitti
 
 # 7. License
 This project is licensed under the MIT License - see [LICENSE](https://docs.github.com/de/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer) for details.
+=======
+# Automated_webtesting
+>>>>>>> d468173366785f48a76bfe1eeb6d81b93e056c03
