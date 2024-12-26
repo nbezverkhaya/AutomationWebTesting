@@ -79,7 +79,7 @@ Example Test Workflow
 Feel free to fork this repository and make your own contributions. When submitting a pull request, make sure to include clear commit messages and ensure that all tests pass.
 
 # 7. License
-This project is licensed under the MIT License - see [LICENSE](LICENSE.txt)for details.
+This project is licensed under the MIT License - see [LICENSE](LICENSE.txt) for details.
 =======
 # Automated_webtesting
 >>>>>>> d468173366785f48a76bfe1eeb6d81b93e056c03
