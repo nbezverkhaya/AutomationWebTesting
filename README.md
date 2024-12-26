@@ -24,7 +24,7 @@ The project follows the Page Object Model (POM) design pattern for better readab
 # 2. Technologies Used
 1. Python 3.x
 2. Selenium WebDriver
-3. unittest (for structuring and running tests)
+3. Unittest (for structuring and running tests)
 4. Google Chrome (browser used for testing)
 5. PyCharm (as the development environment)
 
