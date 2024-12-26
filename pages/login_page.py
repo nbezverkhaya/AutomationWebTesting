@@ -1,4 +1,4 @@
-#Клас для сторінки логіна
+# Class for login page
 from selenium.webdriver.common.by import By
 
 class LoginPage:
