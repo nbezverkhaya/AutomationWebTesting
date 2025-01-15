@@ -36,20 +36,20 @@ Prerequisites
 
 Installing Dependencies
 1. Clone the repository to your local machine:
-(bash)
-git clone https://github.com/your-username/your-repo-name.git
+```bash
+git clone https://github.com/nbezverkhaya/AutomationWebTesting.git
 cd your-repo-name
-
+```
 2. Create and activate a virtual environment (optional but recommended):
-(bash)
+```bash
 python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
-
+```
 3. Install the required packages:
-(bash)
+```bash
 pip install -r requirements.txt
-
+```
 Setting Up WebDriver
 Download the ChromeDriver version compatible with your installed Chrome browser. Add the ChromeDriver to your PATH so Selenium can use it.
 
@@ -57,8 +57,9 @@ Download the ChromeDriver version compatible with your installed Chrome browser.
 Start by ensuring that the WebDriver (e.g., ChromeDriver) is available in your PATH or in the project directory.
 
 To run the tests, simply execute the following command:
-(bash)
+```bash
 python -m unittest discover -s tests
+```
 This will run all the test cases defined in the tests directory.
 
 # 5. Test Structure
