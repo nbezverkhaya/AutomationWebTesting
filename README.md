@@ -81,6 +81,3 @@ Feel free to fork this repository and make your own contributions. When submitti
 
 # 7. License
 This project is licensed under the MIT License - see [LICENSE](LICENSE.txt) for details.
-=======
-# Automated_webtesting
->>>>>>> d468173366785f48a76bfe1eeb6d81b93e056c03
